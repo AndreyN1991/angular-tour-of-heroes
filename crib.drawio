@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-19T14:15:31.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="-aFNKiipnr1V6FfrPR3G" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T06:30:19.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="mCo68ld6e1nAidjNK8pG" version="14.6.13" type="github">
   <diagram id="JAqCMsmhJ70DEvLPGnf-" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="tyhVX2p9xvBOFyz-M4Hk-1" value="SOLID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="20" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tyhVX2p9xvBOFyz-M4Hk-3" value="&lt;ul&gt;&lt;li&gt;Принцип единственной обязанности (Single-Responsibility Principle, SRP)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Принцип «открыт/закрыт» (Open-Closed Principle, OCP)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Принцип подстановки Лисков (Liskov Substitution Principle, LSP)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="20" y="40" width="260" height="100" as="geometry" />
+        <mxCell id="tyhVX2p9xvBOFyz-M4Hk-3" value="&lt;ul&gt;&lt;li&gt;Принцип единственной обязанности (Single-Responsibility Principle, SRP)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Принцип «открыт/закрыт» (Open-Closed Principle, OCP)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Принцип подстановки Лисков (Liskov Substitution Principle, LSP)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Принцип разделения интерфейсов (Interface Segregation Principle, ISP)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="20" y="40" width="260" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
